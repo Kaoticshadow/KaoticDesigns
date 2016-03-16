@@ -41,7 +41,7 @@
 		<div class="container">
 			<div class="content">
 				<div class="title">Kaotic Designs</div>
-				<div class="title">under construction</div>
+				<div class="title">Under Construction</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
 		</div>
